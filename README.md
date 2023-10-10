@@ -1,6 +1,9 @@
 Hi there! I'm Miha
 =====================================================================================================================================
 
+I'm currently studying bioinformatics at University of Primorska.
+-----------------------------------------------------------------
+
 
 <!--
 **mihaprajs/mihaprajs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
