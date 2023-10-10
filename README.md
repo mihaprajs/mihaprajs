@@ -1,9 +1,12 @@
 Hi there! I'm Miha
-=====================================================================================================================================
+=================================================================
 
-I'm currently studying bioinformatics at University of Primorska.
+I'm a young and curious guy trying to learn new things
 -----------------------------------------------------------------
 
+🏫 Freshman of Bioinformatics at University of Primosrka
+🏓 My main hobies are photography and cycling
+📧 Contact me here [miha.prajs@tuta.io][mailto:dbs2znngs@mozmail.com]
 
 <!--
 **mihaprajs/mihaprajs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
