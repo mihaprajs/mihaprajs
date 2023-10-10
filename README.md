@@ -10,7 +10,7 @@ I'm a young and curious guy trying to learn new things
 
 ### Socials
 <p>
-  <a href="https://www.github.com" title="Github">
+  <a href="https://www.github.com">Github</a>
     
 </p>
 
