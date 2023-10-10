@@ -9,7 +9,7 @@ I'm a young and curious guy trying to learn new things
 * 📧 Contact me here [miha.prajs@tuta.io][mailto:dbs2znngs@mozmail.com]
 
 ### Socials
-<p align="left"><a href="https://github.com/mihaprajs" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a>"
+<p align="left"><a href="https://www.github.com" title="Github"</p>
 
 
 <!--
