@@ -6,7 +6,7 @@ I'm a young and curious guy trying to learn new things
 
 * 🏫 Freshman of Bioinformatics at University of Primosrka
 * 🏓 My main hobies are photography and cycling
-* 📧 Contact me here [miha.prajs@tuta.io][mailto:dbs2znngs@mozmail.com]
+* 📧 Contact me here: [miha.prajs@tuta.io](mailto:dbs2znngs@mozmail.com)
 
 ### Socials
 <p>
