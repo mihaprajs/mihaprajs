@@ -12,6 +12,8 @@ I'm a young and curious guy trying to learn new things
 <p>
   <a href="https://www.github.com/mihaprajs">Github</a>
   <a href="https://mihaprajs.github.io">Website</a>
+  <a href="https://www.linkedin.com/in/mihaprajs">LinkedIn</a>
+  <a href="https://www.twitter.com/mihaprajs">Twitter</a>
 </p>
 
 
