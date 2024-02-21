@@ -8,6 +8,8 @@ I'm a young and curious guy trying to learn new things
 * 🏓 My main hobies are photography and cycling
 * 📧 Contact me here: [miha.prajs@tuta.io](mailto:dbs2znngs@mozmail.com)
 
+
+
 ### Socials
 <p>
   <a href="https://github.com/mihaprajs?tab=repositories">Github</a>
@@ -16,6 +18,8 @@ I'm a young and curious guy trying to learn new things
   <a href="https://www.twitter.com/mihaprajs">Twitter</a>
 </p>
 
+### Badges
+![mihaprajs's Stats](https://github-readme-stats.vercel.app/api?username=mihaprajs&theme=dracula&show_icons=true&hide_border=true&count_private=true)
 
 <!--
 **mihaprajs/mihaprajs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
