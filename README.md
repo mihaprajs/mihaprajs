@@ -8,6 +8,22 @@ I'm a young and curious guy trying to learn new things
 * 🏓 My main hobies are photography and cycling
 * 📧 Contact me here: [miha.prajs@tuta.io](mailto:dbs2znngs@mozmail.com)
 
+### Skills
+1. Currently learning:
+  * Programming languages:
+    - Java,
+    - Bash,
+    - C,
+    - R,
+    - Python
+  * Nature science:
+    - Genetics,
+    - Organic chemistry and biochemistry
+  * Also learning a lot of mathematics
+2. Skills from high school (Graduated at [Biotechnical Educational Centre Ljubljna](https://www.bic-lj.si/biotechnical-educational-centre-ljubljana)):
+  * Biotehcnology,
+  * Basic knowledge of using laboratory equipment
+
 ### Badges
 ![mihaprajs's Stats](https://github-readme-stats.vercel.app/api?username=mihaprajs&theme=dracula&show_icons=true&hide_border=true&count_private=true)
 
