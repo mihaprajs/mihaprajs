@@ -14,8 +14,7 @@ I'm a young and curious guy trying to learn new things
       - Java,
       - Bash,
       - C,
-      - R,
-      - Python
+      - R
     * Nature science:
       - Genetics,
       - Organic chemistry and biochemistry
