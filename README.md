@@ -20,7 +20,6 @@ I'm a young and curious guy trying to learn new things
       - Genetics,
       - Organic chemistry and biochemistry
     * Also learning a lot of mathematics
-    
 2. Skills from high school (Graduated at [Biotechnical Educational Centre Ljubljna](https://www.bic-lj.si/biotechnical-educational-centre-ljubljana)):
     * Biotehcnology,
     * Basic knowledge of laboratory equipment usage
