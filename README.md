@@ -28,7 +28,7 @@ I'm a young and curious guy trying to learn new things
 ### Badges
 ![mihaprajs's Stats](https://github-readme-stats.vercel.app/api?username=mihaprajs&theme=dracula&show_icons=true&hide_border=true&count_private=true)
 
-### Socials
+### Other links
 <p>
   <a href="https://github.com/mihaprajs?tab=repositories"><img src="./Styles/GithubLogo.png" height="30" alt="Github portfolio"></a>
   <a href="https://www.linkedin.com/in/mihaprajs"><img src="./Styles/LinkedinLogo.png" height="30" alt="LinkdIn"></a>
