@@ -21,7 +21,7 @@ I'm a young and curious guy trying to learn new things
     * Also learning a lot of mathematics
 2. Skills from high school (Graduated at [Biotechnical Educational Centre Ljubljna](https://www.bic-lj.si/biotechnical-educational-centre-ljubljana)):
     * Biotehcnology,
-    * Basic knowledge of using laboratory equipment
+    * Basic knowledge of laboratory equipment usage
 
 ### Badges
 ![mihaprajs's Stats](https://github-readme-stats.vercel.app/api?username=mihaprajs&theme=dracula&show_icons=true&hide_border=true&count_private=true)
