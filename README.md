@@ -4,7 +4,7 @@ Hi there! I'm Miha
 I'm a young and curious guy trying to learn new things
 -----------------------------------------------------------------
 
-* 🏫 Freshman of Bioinformatics at University of Primosrka
+* 🏫 Sophomore of Bioinformatics at University of Primosrka
 * 🏓 My main hobies are photography and cycling
 * 📧 Contact me here: [eMail](mailto:rvkrexzat@mozmail.com)
 
