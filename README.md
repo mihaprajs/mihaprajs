@@ -4,17 +4,16 @@ Hi there! I'm Miha
 I'm a young and curious guy trying to learn new things
 -----------------------------------------------------------------
 
-* 🏫 Sophomore of Bioinformatics at University of Primosrka
-* 🏓 My main hobies are photography and cycling
-* 📧 Contact me here: [eMail](mailto:rvkrexzat@mozmail.com)
-* 💻 My webpage: <a href="https://mihaprajs.github.io">mihaprajs.github.io</a>
+🏫 Sophomore of Bioinformatics at University of Primosrka <br>
+🏓 My main hobies are photography, cycling and collecting vinyl records <br>
+📧 Contact me here: [eMail](mailto:rvkrexzat@mozmail.com) <br>
+💻 My webpage: <a href="https://mihaprajs.github.io">mihaprajs.github.io</a>
 
 ### Skills
 1. Currently learning:
     * Programming languages:
       - Java,
       - Bash,
-      - C,
       - R
     * Nature science:
       - Genetics,
@@ -32,10 +31,9 @@ I'm a young and curious guy trying to learn new things
   <a href="https://github.com/mihaprajs?tab=repositories"><img src="./Styles/GithubLogo.png" height="30" alt="Github portfolio"></a>
   <a href="https://www.linkedin.com/in/mihaprajs"><img src="./Styles/LinkedinLogo.png" height="30" alt="LinkdIn"></a>
   <a href="https://www.twitter.com/mihaprajs"><img src="./Styles/TwitterLogo.png" height="30" alt="X.com"></a>
-  <a href="https://plus.cobiss.net/cobiss/si/en/bib/search/expert?c=ar%3D321992035&db=cobib&mat=allmaterials"><img src="./Styles/cobiss.png" height="30" alt="Cobiss+"></a>
+  <a href="https://plus.cobiss.net/cobiss/si/en/bib/search/expert?c=ar%3D321992035&db=cobib&mat=allmaterials"><img src="./Styles/CobissPlusLogo.png" height="30" alt="Cobiss+"></a><br>
+  <a href="https://www.discogs.com/user/mikael2603/collection"><img src="./Styles/DiscogsLogo.png" height="30" alt="Discogs"></a>
 </p>
-
-
 
 <!--
 **mihaprajs/mihaprajs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
