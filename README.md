@@ -5,8 +5,8 @@ I'm a young and curious guy trying to learn new things
 -----------------------------------------------------------------
 
 🏫 Sophomore of Bioinformatics at University of Primosrka <br>
-🏓 My main hobies are photography, cycling and collecting vinyl records <br>
-📧 Contact me here: [eMail](mailto:rvkrexzat@mozmail.com) <br>
+🏓 My main hobbies are photography, cycling and collecting vinyl records <br>
+📧 Contact me here: [Email](mailto:rvkrexzat@mozmail.com) <br>
 💻 My webpage: <a href="https://mihaprajs.github.io">mihaprajs.github.io</a>
 
 ### Skills
@@ -18,15 +18,22 @@ I'm a young and curious guy trying to learn new things
     * Nature science:
       - Genetics,
       - Organic chemistry and biochemistry
-      - Biomolecular modeling - analysis of proiteins
+      - Biomolecular modeling - analysis of proteins
       - Nucleotide sequence analysis
     * Also learning lots of mathematics
-2. Skills from high school (Graduated at [Biotechnical Educational Centre Ljubljna](https://www.bic-lj.si/biotechnical-educational-centre-ljubljana)):
-    * Biotehcnology,
-    * Basic knowledge of laboratory equipment usage
+2. Skills learnd in high school (Graduated at [Biotechnical Educational Centre Ljubljana](https://www.bic-lj.si/biotechnical-educational-centre-ljubljana)):
+    * Biotechnology,
+    * Basic knowledge of general laboratory equipment usage
 
 ### Badges
 ![mihaprajs's Stats](https://github-readme-stats.vercel.app/api?username=mihaprajs&theme=dracula&show_icons=true&hide_border=true&count_private=true)
+
+### Develpoment Enviroment
+I know my way around integrated development environments like IntelliJ Idea, Visual Studio Code and RStudio.
+While I used to use Windows system on daily basis, I now use mostly Linux for everything.
+
+While I use laptop for most tasks, I also have a dedicated server with a few virtual machines and containers where I do
+more resource hungry bioinformatic analyses, have a NAS and other personal services.
 
 ### Other links
 <p>
