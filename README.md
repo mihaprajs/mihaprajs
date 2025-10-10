@@ -27,10 +27,11 @@ I'm a young and curious guy trying to learn new things
 
 ### Develpoment Enviroment
 I know my way around integrated development environments like IntelliJ Idea, Visual Studio Code and RStudio.
-While I used to use Windows system on daily basis, I now use mostly Linux for everything.
+While I used to use Windows system on daily basis, I now use Linux (Debian 13) for everything.
 
-While I use laptop for most tasks, I also have a dedicated server with a few virtual machines and containers where I do
-more resource hungry bioinformatic analyses, have a NAS and other personal services.
+While I use laptop for most tasks, I also have a dedicated server (configuration:
+[mihaprajs/HomeLab](https://github.com/mihaprajs/HomeLab) - in the process of documenting everything) with a few virtual
+machines and containers where I do more resource hungry bioinformatic analyses, have a NAS and other personal services.
 
 ### Badges
 ![mihaprajs's Stats](https://github-readme-stats.vercel.app/api?username=mihaprajs&theme=dracula&show_icons=true&hide_border=true&count_private=true)
