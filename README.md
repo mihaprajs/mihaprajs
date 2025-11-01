@@ -30,7 +30,7 @@ I know my way around integrated development environments like IntelliJ Idea, Vis
 While I used to use Windows system on daily basis, I now use Linux (Debian 13) for everything.
 
 While I use laptop for most tasks, I also have a dedicated server (configuration:
-[mihaprajs/HomeLab](https://github.com/mihaprajs/HomeLab) - in the process of documenting everything) with a few virtual
+[HomeLab](https://github.com/mihaprajs/HomeLab) - in the process of documenting everything) with a few virtual
 machines and containers where I do more resource hungry bioinformatic analyses, have a NAS and other personal services.
 
 ### Badges
