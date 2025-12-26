@@ -34,7 +34,8 @@ While I use laptop for most tasks, I also have a dedicated server (configuration
 machines and containers where I do more resource hungry bioinformatic analyses, have a NAS and other personal services.
 
 ### Badges
-![mihaprajs's Stats](https://github-readme-stats.vercel.app/api?username=mihaprajs&theme=dracula&show_icons=true&hide_border=true&count_private=true)
+![mihaprajs's Stats](https://githubcard.com/mihaprajs.svg?d=G0iKk93i)
+
 
 ### Other links
 <p>
