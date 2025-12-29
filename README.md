@@ -39,11 +39,11 @@ machines and containers where I do more resource hungry bioinformatic analyses, 
 
 ### Other links
 <p>
-  <a href="https://github.com/mihaprajs?tab=repositories"><img src="./Styles/GithubLogo.png" height="30" alt="Github portfolio"></a>
-  <a href="https://www.linkedin.com/in/mihaprajs"><img src="./Styles/LinkedinLogo.png" height="30" alt="LinkdIn"></a>
-  <a href="https://www.twitter.com/mihaprajs"><img src="./Styles/TwitterLogo.png" height="30" alt="X.com"></a>
-  <a href="https://plus.cobiss.net/cobiss/si/en/bib/search/expert?c=ar%3D321992035&db=cobib&mat=allmaterials"><img src="./Styles/CobissPlusLogo.png" height="30" alt="Cobiss+"></a><br>
-  <a href="https://www.discogs.com/user/mikael2603/collection"><img src="./Styles/DiscogsLogo.png" height="30" alt="Discogs"></a>
+  <a target="_blank" rel="noopener noreferrer" href="https://github.com/mihaprajs?tab=repositories"><img src="./Styles/GithubLogo.png" height="30" alt="Github portfolio"></a>
+  <a target="_blank" rel="noopener noreferrer" href="https://www.linkedin.com/in/mihaprajs"><img src="./Styles/LinkedinLogo.png" height="30" alt="LinkdIn"></a>
+  <a target="_blank" rel="noopener noreferrer" href="https://www.twitter.com/mihaprajs"><img src="./Styles/TwitterLogo.png" height="30" alt="X.com"></a>
+  <a target="_blank" rel="noopener noreferrer" href="https://plus.cobiss.net/cobiss/si/en/bib/search/expert?c=ar%3D321992035&db=cobib&mat=allmaterials"><img src="./Styles/CobissPlusLogo.png" height="30" alt="Cobiss+"></a><br>
+  <a target="_blank" rel="noopener noreferrer" href="https://www.discogs.com/user/mikael2603/collection"><img src="./Styles/DiscogsLogo.png" height="30" alt="Discogs"></a>
 </p>
 
 <!--
